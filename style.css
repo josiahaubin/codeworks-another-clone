@@ -1,0 +1,12 @@
+.top-nav{
+  height: 18vh;
+}
+.top-nav-img{
+  background-image: url('https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1012692668,width=178,height=178/king-crown-logo.png');
+  background-size: cover;
+  height: 18vh;
+  margin-right: 90px;
+}
+a{
+  padding: 10px;
+}
