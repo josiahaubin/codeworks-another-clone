@@ -6,3 +6,8 @@
   background-size: cover;
   height: 18vh;
 }
+.brand-img{
+  background-image: url('https://cdn8.bigcommerce.com/s-ec3t5d56yg/product_images/theme_images/CrownMapleCore_Gift.jpg?t=1522678191');
+  height: 80vh;
+  background-size: cover;
+}
