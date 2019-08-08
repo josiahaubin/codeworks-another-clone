@@ -15,8 +15,10 @@
   background-color: #231F20;
   height: 45vh;
 }
-.button-who{
-  background-color: #F2F2F2;
-  color: black;
-  border-color: black;
+.h1-button{
+  display: inline;
+}
+.button-edit{
+  margin-top: -21px;
+  margin-left: 25px;
 }
